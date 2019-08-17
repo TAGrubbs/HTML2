@@ -1,0 +1,18 @@
+.logo {
+    font-weight: bold;
+    background-color: teal;
+    color: white;
+    font-size: 40px;
+    }
+
+.main image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+}
+.panel-body {
+    /* width: 99vw; */
+    /* position: relative; */
+    width:100%;
+    overflow: auto;
+}
